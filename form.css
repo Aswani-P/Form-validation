@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+   
+}
+body
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 50%;
+    background-color: rgb(10, 124, 99);
+    border: 1px solid rgb(17, 17, 16);
+    border-radius: 9px;
+}
+body
+#box
+.form{
+    height: 30px;
+    width: 90%;
+
+}
+body
+#box
+#btn{
+    border: 1px solid rgb(175, 17, 44);
+    border-radius: 10px;
+    background-color: rgb(255, 0, 64);
+    color: white;
+    height: 40px;
+    width: 50%;
+}
+

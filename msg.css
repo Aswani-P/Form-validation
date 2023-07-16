@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /* background-image: url('200.webp'); */
+     background-position:center;
+     background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
